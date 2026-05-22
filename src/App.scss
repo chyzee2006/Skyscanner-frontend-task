@@ -27,6 +27,10 @@
 
   &__main {
     padding: $bpk-spacing-xxl;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: $bpk-spacing-lg;
 
     @include container;
 
