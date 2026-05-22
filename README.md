@@ -18,7 +18,7 @@ The task involved reviewing the Skyscanner design system and calendar component 
 - JavaScript
 - HTML
 - CSS
-- React (if you used React)
+- React
 
 ## Challenges Faced
 
