@@ -46,7 +46,7 @@ Through this project, I learned how to:
 Clone the repository:
 
 ```bash
-git clone https://github.com/chyzee2006/Skyscanner-frontend-task#:~:text=Settings-,Skyscanner%2Dfrontend%2Dtask,-Public
+git clone https://github.com/chyzee2006/Skyscanner-frontend-task
 ```
 
 Install dependencies:
